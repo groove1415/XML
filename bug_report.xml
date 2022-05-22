@@ -1,1 +1,9 @@
-
+<xml>
+        <summary>Login page: The button 'Sing in' is displaced after clicking on the page</summary>
+        <STR>1.Open the login page. 2.Navigate to the 'Sing in' button. 3.Click on the page on any place.</STR>
+        <result>The button 'Sing in' is displaced after clicking on the page</result>
+        <expected_result>The button 'Sing in' is displaced after clicking on the page according to mockups</expected_result>
+        <severity>trivial</severity>
+        <priority>low</priority>
+        <environment>Windows 10</environment>
+</xml>
